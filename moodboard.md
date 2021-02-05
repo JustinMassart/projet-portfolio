@@ -17,9 +17,19 @@ Le portfolio avec "Jems Kemerun" :
 
 - la grille du <i>Featured Works</i>.
 - (le style de la section <i>About me</i>).
+- le formulaire de contact
   
 Le portfolio avec "Andrei Verenich" :
 
 - les styles d'illustrations dans la section <i>My skills</i>.
 - les titres écrits en double avec le double plus grand, transparent, et décalé.
 - (le style de séparation de section).
+
+Le portfolio avec "I'm a developer based in London" :
+
+- +/- la typo
+- le motif sur les backgrounds foncés
+
+Le portfolio avec "Portfolio Website" :
+
+- la partie <i>skills</i>
