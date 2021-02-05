@@ -6,3 +6,20 @@
 
 https://www.behance.net/collection/179527419/Portfolio-DW
 
+### Idées retenues sur les différents moodboard :
+
+Le portfolio avec "Cathy Pearl" : 
+
+- le découpage de l'information.
+- les bordures sur les éléments (couleur -> transparent).
+
+Le portfolio avec "Jems Kemerun" :
+
+- la grille du <i>Featured Works</i>.
+- (le style de la section <i>About me</i>).
+  
+Le portfolio avec "Andrei Verenich" :
+
+- les styles d'illustrations dans la section <i>My skills</i>.
+- les titres écrits en double avec le double plus grand, transparent, et décalé.
+- (le style de séparation de section).
