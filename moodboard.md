@@ -33,3 +33,14 @@ Le portfolio avec "I'm a developer based in London" :
 Le portfolio avec "Portfolio Website" :
 
 - la partie <i>skills</i>
+
+Le portfolio avec "Sharannyo Basu" :
+
+- le style des illustrations
+- (couleurs)
+
+Le portfolio avec "Hello my name is Jonny" :
+
+- l'animation de changement de sections
+- la barre de scroll en cercles indiquant dans quelle section on se trouve
+
