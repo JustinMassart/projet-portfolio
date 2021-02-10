@@ -55,6 +55,8 @@ Le Travel web design avec "Indonesia" :
 
 ### Polices retenues :
 
+Les polices sont dans le dossier fonts du repo.
+
 - La typographie avec Luam (dans le moodboard)
 
 
