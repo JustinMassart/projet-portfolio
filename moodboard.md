@@ -39,8 +39,31 @@ Le portfolio avec "Sharannyo Basu" :
 - le style des illustrations
 - (couleurs)
 
-Le portfolio avec "Hello my name is Jonny" :
+Le portfolio avec "Jonny" :
 
 - l'animation de changement de sections
 - la barre de scroll en cercles indiquant dans quelle section on se trouve
 
+Loading animation
+
+Le Travel web design avec "Indonesia" :
+
+- l'effet de vignette
+
+
+
+
+### Polices retenues :
+
+- La typographie avec Luam (dans le moodboard)
+
+
+Dans le dossier 30+ Best free fonts for Designers 2021 :
+
+- Audrey
+- Luxia
+- Kano
+- Anders
+- Relancer
+- Aqua
+- Kayak
