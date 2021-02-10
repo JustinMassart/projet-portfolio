@@ -61,9 +61,7 @@ Le Travel web design avec "Indonesia" :
 Dans le dossier 30+ Best free fonts for Designers 2021 :
 
 - Audrey
-- Luxia
 - Kano
 - Anders
 - Relancer
 - Aqua
-- Kayak
