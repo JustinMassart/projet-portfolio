@@ -63,8 +63,17 @@ https://www.awwwards.com/Justin_Massart/collections/portfolio-dw/ :
 
 - Animation de scroll sur les sections et sur la typo
 
+"iGS studio - Horizontal navigation" :
 
+- Scroll vers la droite ?
 
+"Good meat - Scroll navigation digital food brand experience" :
+
+- Storytelling, animations textes/images
+
+"Grid layout" :
+
+- Storytelling
 
 
 ### Polices retenues :
