@@ -6,7 +6,7 @@
 
 https://www.behance.net/collection/179527419/Portfolio-DW
 
-### Idées retenues sur les différents moodboard :
+### Idées retenues sur les différents moodboard Sur Behance:
 
 Le portfolio avec "Cathy Pearl" : 
 
@@ -49,6 +49,14 @@ Loading animation
 Le Travel web design avec "Indonesia" :
 
 - l'effet de vignette
+
+
+### Idées retenues sur Awwwards:
+
+https://www.awwwards.com/Justin_Massart/collections/portfolio-dw/ :
+
+- Animation de scroll sur les sections et sur la typo
+
 
 
 
