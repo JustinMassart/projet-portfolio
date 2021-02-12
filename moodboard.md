@@ -55,6 +55,12 @@ Le Travel web design avec "Indonesia" :
 
 https://www.awwwards.com/Justin_Massart/collections/portfolio-dw/ :
 
+"About page - Yoichi Kobayashi portfolio" :
+
+- animation sur la typo
+
+"Smooth portfolio navigation - Bruno Arizio" :
+
 - Animation de scroll sur les sections et sur la typo
 
 
