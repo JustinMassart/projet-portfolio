@@ -80,7 +80,7 @@ https://www.awwwards.com/Justin_Massart/collections/portfolio-dw/ :
 
 Les polices sont dans le dossier fonts du repo.
 
-- La typographie avec Luam (dans le moodboard)
+- La typographie avec Luam (dans le moodboard Behance)
 
 
 Dans le dossier 30+ Best free fonts for Designers 2021 :
@@ -90,3 +90,4 @@ Dans le dossier 30+ Best free fonts for Designers 2021 :
 - Anders
 - Relancer
 - Aqua
+- Bronova
